@@ -1,0 +1,11 @@
+.vs
+.vscode
+.settings
+build
+cmake
+Debug
+*.launch
+CMakeList.txt
+Debug/
+*.mxproject
+
